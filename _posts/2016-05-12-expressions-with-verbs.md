@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'are, along with phrasal verbs, probably the most important vocabulary area in the CAE.'
-datePublished: '2016-05-12T15:31:56.980Z'
-dateModified: '2016-05-12T15:31:36.888Z'
+datePublished: '2016-05-12T16:42:28.585Z'
+dateModified: '2016-05-12T15:32:01.068Z'
 title: Expressions with verbs
 author: []
 authors: []
@@ -29,4 +29,6 @@ You'll need to be aware of the most important of these expressions for various e
 
 On this site you'll find a list of the most important expressions with verbs and lots and lots of exercises in which you'll practise and master these expressions. 
 
-The first part of the list is free to all, as are numerous exercises to practice the expressions contained in it. The other parts are subscriber only.
+The first part of the list is free to all, as are numerous exercises to practice the expressions contained in it. The other parts are subscriber only. 
+
+check out the first part of the list here
