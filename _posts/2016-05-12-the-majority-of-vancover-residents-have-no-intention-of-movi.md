@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: The majority of Vancover residents have no intention of moving to another city
-datePublished: '2016-05-12T16:35:11.713Z'
-dateModified: '2016-05-12T16:35:10.345Z'
+description: ''
+datePublished: '2016-05-12T16:39:10.366Z'
+dateModified: '2016-05-12T16:38:17.679Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-12-the-majority-of-vancover-residents-have-no-intention-of-movi.md
 authors: []
 publisher:
   name: null
@@ -16,11 +17,14 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-12-the-majority-of-vancover-residents-have-no-intention-of-movi.md
 url: the-majority-of-vancover-residents-have-no-intention-of-movi/index.html
 _type: Article
 
 ---
+free expressions with verbs transformations
+
+why not try these free transofrmation exercises that are based on our list of 'Most Important Expressions with Verbs'. 
+
 The majority of Vancover residents have no intention of moving to another city
 
 DREAM
