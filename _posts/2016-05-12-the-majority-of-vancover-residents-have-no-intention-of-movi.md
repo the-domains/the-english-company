@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The majority of Vancover residents have no intention of moving to another city
-datePublished: '2016-05-12T15:15:22.588Z'
-dateModified: '2016-05-12T15:15:21.435Z'
+datePublished: '2016-05-12T16:35:11.713Z'
+dateModified: '2016-05-12T16:35:10.345Z'
 title: ''
 author: []
 authors: []
