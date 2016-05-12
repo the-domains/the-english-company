@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[the english company]]></title>
         <description><![CDATA[the english company]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-english-company/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 15:15:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 15:32:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-english-company/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Expressions with verbs]]></title>
+            <description><![CDATA[<article><h1>Expressions with verbs</h1><p>are, along with phrasal verbs, probably the most important vocabulary area in the CAE.</p></article>]]></description>
+            <link>https://thegrid.ai/the-english-company/expressions-with-verbs/index.html</link>
+            <guid isPermaLink="false">556cf8f8-e503-4d37-9200-68b1ef86de28</guid>
+            <pubDate>Thu, 12 May 2016 15:31:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The majority of Vancover residents have no intention of moving to another city</p>]]></description>
-            <link>undefinedthe-majority-of-vancover-residents-have-no-intention-of-movi/index.html</link>
+            <link>https://thegrid.ai/the-english-company/the-majority-of-vancover-residents-have-no-intention-of-movi/index.html</link>
             <guid isPermaLink="false">f088bd7f-ad2d-4052-b728-062cf1bd22a6</guid>
             <pubDate>Thu, 12 May 2016 15:15:22 GMT</pubDate>
         </item>
