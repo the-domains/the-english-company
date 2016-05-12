@@ -1,6 +1,6 @@
 name: the english company
 favicon: null
-layout_spectrum: 0.5700410397257656
+layout_spectrum: 0.68907
 typography_spectrum: 0.37508
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.24281837465241551
+  brandStrength: 0.3125
   lightness: 0.1461248470004648
   saturation: 0.5773104748222977
   rhythmicContrast: 0.777684535831213
