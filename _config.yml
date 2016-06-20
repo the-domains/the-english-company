@@ -1,26 +1,34 @@
+layout_spectrum: 0.2748735
 favicon: null
 name: the english company
+purpose: []
+analytics:
+  facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
 collections:
   - index:
+      paginate: true
       path: /
       number: 15
-      paginate: true
       navigable: true
     feed:
-      path: /rss.xml
       format: rss
+      path: /rss.xml
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
 color:
-  saturation: 0.5773104748222977
   brandStrength: 0.3125
-  rhythmicContrast: 0.777684535831213
+  saturation: 0.5773104748222977
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
@@ -28,13 +36,5 @@ color:
     - '#3A6EA5'
     - '#004E98'
   lightness: 0.1461248470004648
-typography_spectrum: 0.37508
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.2748735
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  rhythmicContrast: 0.777684535831213
+typography_spectrum: 0.6319149
