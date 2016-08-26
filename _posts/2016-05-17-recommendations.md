@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T10:14:42.605Z'
+datePublished: '2016-08-26T10:56:01.530Z'
 sourcePath: _posts/2016-05-17-recommendations.md
 inFeed: true
 isBasedOnUrl: 'http://www.tusclasesparticulares.com/profesores/matt-hill.htm#ratings'
@@ -9,7 +9,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-26T10:14:41.688Z'
+dateModified: '2016-08-26T10:56:00.706Z'
 title: Matt Hill |  profile
 app_links: []
 publisher:
@@ -25,4 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbd3944384fda36ec64c69a0e33623a64ac354af.png" /><h1>Matt Hill |  profile</h1><p>Matt Hill, recommendations from students</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dac30fa8-b1be-41aa-b4c1-bc6222e396e2.png)
