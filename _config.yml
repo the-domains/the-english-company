@@ -37,5 +37,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: TEC
 description: First Certificate
 purpose: []
